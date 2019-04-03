@@ -1,0 +1,3 @@
+2018-12-15 23:33:14.378354
+Use Pretrained Weights: False
+Pretrained Model: model1_5.ckpt

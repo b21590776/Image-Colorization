@@ -1,0 +1,8 @@
+2019-01-13 23:49:48.760802
+Use Pretrained Weights: True
+Pretrained Model: model2_3.ckpt
+Epoch: 1 Average Cost: 0.0014786781230086473
+Epoch: 2 Average Cost: 0.0014675595628250418
+Epoch: 3 Average Cost: 0.0014508550506689083
+Model saved in path: /content/drive/My Drive/colorization_tensorflow/MODEL/model2_3.ckpt
+Average Cost: 0

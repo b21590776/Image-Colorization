@@ -1,0 +1,34 @@
+2018-12-16 22:13:47.552667
+Use Pretrained Weights: False
+Pretrained Model: model1_3.ckpt
+Epoch: 1 Average Cost: 0.0031700009585983913
+Epoch: 2 Average Cost: 0.0024954340440490356
+Epoch: 3 Average Cost: 0.0025621251790107617
+Epoch: 4 Average Cost: 0.0025425962251392777
+Epoch: 5 Average Cost: 0.002489832237188241
+Epoch: 6 Average Cost: 0.0025754942597450295
+Epoch: 7 Average Cost: 0.0025421729185109185
+Epoch: 8 Average Cost: 0.002580135662192329
+Epoch: 9 Average Cost: 0.002562224068115029
+Epoch: 10 Average Cost: 0.0025634507898394084
+Epoch: 11 Average Cost: 0.002567283000162205
+Epoch: 12 Average Cost: 0.002566679951632975
+Epoch: 13 Average Cost: 0.002565220440756097
+Epoch: 14 Average Cost: 0.0025601170779009376
+Epoch: 15 Average Cost: 0.0025602348995107586
+Epoch: 16 Average Cost: 0.0025633459929304053
+Epoch: 17 Average Cost: 0.002561953862805242
+Epoch: 18 Average Cost: 0.002560701493348458
+Epoch: 19 Average Cost: 0.002556172017812059
+Epoch: 20 Average Cost: 0.0025579469212789244
+Epoch: 21 Average Cost: 0.0025591899951359653
+Epoch: 22 Average Cost: 0.002559980653295499
+Epoch: 23 Average Cost: 0.0025581220686581225
+Epoch: 24 Average Cost: 0.002561787283484592
+Epoch: 25 Average Cost: 0.002559386320790513
+Epoch: 26 Average Cost: 0.00255753189305324
+Epoch: 27 Average Cost: 0.0025612932119656756
+Epoch: 28 Average Cost: 0.002561978812409509
+Epoch: 29 Average Cost: 0.0025613173095734936
+Epoch: 30 Average Cost: 0.002558300129567213
+Model saved in path: /content/drive/My Drive/colorization_tensorflow/MODEL/model2_30.ckpt

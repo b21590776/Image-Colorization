@@ -1,0 +1,3 @@
+2019-01-14 09:58:27.324458
+Use Pretrained Weights: True
+Pretrained Model: model2_3.ckpt

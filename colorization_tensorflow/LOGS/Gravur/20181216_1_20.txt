@@ -1,0 +1,9 @@
+2018-12-16 12:15:16.397367
+Use Pretrained Weights: False
+Pretrained Model: model1_5.ckpt
+Epoch: 1 Average Cost: 0.0031053077014496877
+Epoch: 2 Average Cost: 0.0025805761400190643
+Epoch: 3 Average Cost: 0.0025685101426649428
+Epoch: 4 Average Cost: 0.0025633346757275516
+Epoch: 5 Average Cost: 0.0025616119084155915
+Epoch: 6 Average Cost: 0.0025564756839633997

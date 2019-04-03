@@ -1,0 +1,4 @@
+2018-12-16 19:29:48.266274
+Use Pretrained Weights: True
+Pretrained Model: model1_3.ckpt
+Average Cost: 0.0018884906377125946

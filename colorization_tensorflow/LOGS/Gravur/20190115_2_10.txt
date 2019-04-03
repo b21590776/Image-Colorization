@@ -1,0 +1,4 @@
+2019-01-15 13:42:14.780415
+Use Pretrained Weights: False
+Pretrained Model: model2_2.ckpt
+Average Cost: 0
